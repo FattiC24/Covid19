@@ -23,18 +23,6 @@
 	text-align: center;
 	font-size: 40px;
 }
-
-.covid {
-	width: 15%;
-	display: block;
-	margin: auto;
-	text-align: center;
-	font-size: 25px;
-	background-color: #303846;
-	color: #ffff;
-	padding: 5px;
-	border-radius: 20px;
-}
 form {
 	font-family: "Bebas Neue", sans-serif;
 	display: block;

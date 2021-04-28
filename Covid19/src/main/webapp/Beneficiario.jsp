@@ -31,7 +31,7 @@
 	<br>
 	<p class="Introduccion">
 		<strong> Eres beneficiario del apoyo
-			económico brindado por el Gobierno de El salvador de $300.00 para alimentación de tú hogar.
+			económico de $300.00 brindado por el Gobierno de El salvador  para alimentación de tú hogar.
 		<strong>Tú pago podrá ser retirado en cualquiera de las sucursales aprobadas por el Gobierno.
 		</strong>
 	</p>

@@ -5,7 +5,7 @@
 
 <head>
 <meta charset="utf-8">
-<title>Emergencia COVID-19</title>
+<title>COVID-19</title>
 <link rel="stylesheet" href="Estilos/index.css">
 <link
 	href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css"
@@ -24,11 +24,8 @@
 	<br>
 	<p class="Informacion1">
 		<strong> Consulta quién de tú familia es beneficiario del
-			apoyo <br>económico para alimentación en la emergencia
+			apoyo <br>económico para alimentación en la emergencia COVID-19
 		</strong>
-	</p>
-	<p class="covid">
-		<strong> COVID-19 </strong>
 	</p>
 	<br>
 	<br>

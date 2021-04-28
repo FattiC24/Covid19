@@ -30,12 +30,12 @@ public class ClsBeneficiario {
     	return SiSoybeneficiario;
     }
     
-    public String VerificarBeneficiario(Personas person) {
+    public String VerificarBeneficiario(Personas persona) {
     	
     	String fullname = "";
     	try {
 			CallableStatement statement = conectar.prepareCall("call SP_S_BENEFICIARIOS(?)");
-			statement.setString("PDUI", person.getDUI());
+			statement.setString("PDUI", persona.getDUI());
 			ResultSet result = statement.executeQuery();
 			
 			if(result.next()) {

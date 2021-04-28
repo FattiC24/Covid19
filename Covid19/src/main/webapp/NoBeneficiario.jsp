@@ -36,7 +36,7 @@
 	<br>
 	<p class="Informacion">
 		<strong>Este DUI no se encuentra en nuestros registros. Puedes intentar
-			ingresando el DUI de otra persona de tu vivienda.
+			ingresando el DUI de otra persona de tu hogar.
 		</strong>
 	</p>
 	<br>
