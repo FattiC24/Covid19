@@ -1,0 +1,63 @@
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+.Inicio {
+	font-family: "Bebas Neue", sans-serif;
+}
+
+.Inicio2 {
+	background-color: #303846;
+	border-bottom: 100px;
+}
+
+.LogoGobiernoSV {
+	width: 45%;
+	display: block;
+	margin: auto;
+}
+
+.Informacion1 {
+	text-align: center;
+	font-size: 40px;
+}
+
+.covid {
+	width: 15%;
+	display: block;
+	margin: auto;
+	text-align: center;
+	font-size: 25px;
+	background-color: #303846;
+	color: #ffff;
+	padding: 5px;
+	border-radius: 20px;
+}
+form {
+	font-family: "Bebas Neue", sans-serif;
+	display: block;
+	margin: 0 auto;
+	text-align: center;
+	padding: 15px;
+	width: 600px;
+}
+.consultar {
+	font-family: "Bebas Neue", sans-serif;
+	font-size: 15px;
+	text-align: center;
+	width: 20%;
+	display: block;
+	margin: auto;
+	padding: 10px;
+	border: solid 2px #303846;
+	background: #303846;
+	color: #ffff;
+	cursor: pointer;
+
+}
+.Informacion2 {
+	text-align: center;
+	font-size: 25px;
+}

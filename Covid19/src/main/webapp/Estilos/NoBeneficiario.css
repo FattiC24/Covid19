@@ -1,0 +1,41 @@
+@charset "ISO-8859-1";
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+.Inicio {
+	font-family: "Bebas Neue", sans-serif;
+}
+
+.Inicio2 {
+	background-color: #303846;
+	border-bottom: 100px;
+	font-family: "Bebas Neue", sans-serif;
+}
+
+.LogoGobiernoSV {
+	width: 45%;
+	display: block;
+	margin: auto;
+}
+
+.Informacion {
+	text-align: center;
+	font-size: 30px;
+	font-weight: 600
+}
+.regresar {
+	font-family: "Bebas Neue", sans-serif;
+	font-size: 25px;
+	text-align: center;
+	width: 16%;
+	display: block;
+	margin: auto;
+	padding: 10px;
+	border: solid 2px #303846;
+	background: #303846;
+	color: #ffff;
+	cursor: pointer;
+}
